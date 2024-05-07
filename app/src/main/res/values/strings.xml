@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mobile-frontend-example-3</string>
+
+    <string name="show_countries_label">Show Countries</string>
+</resources>
